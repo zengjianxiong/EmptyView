@@ -454,11 +454,11 @@ public class EmptyViewBuilder {
     }
 
     public void show() {
-//        emptyView.show();
+        emptyView.show();
     }
 
     public void show(View view) {
-//        emptyView.show(view);
+        emptyView.show(view);
     }
 
 
